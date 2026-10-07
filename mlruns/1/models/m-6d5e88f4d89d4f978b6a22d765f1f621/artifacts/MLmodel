@@ -1,0 +1,23 @@
+artifact_path: file:///C:/Users/Ananya/Desktop/Eng/Sem5/SE/MLflow/mlruns/1/models/m-6d5e88f4d89d4f978b6a22d765f1f621/artifacts
+flavors:
+  python_function:
+    env:
+      conda: conda.yaml
+      virtualenv: python_env.yaml
+    loader_module: mlflow.sklearn
+    model_path: model.pkl
+    predict_fn: predict
+    python_version: 3.10.10
+  sklearn:
+    code: null
+    pickled_model: model.pkl
+    serialization_format: cloudpickle
+    sklearn_version: 1.3.2
+    skops_trusted_types: null
+mlflow_version: 3.16.1
+model_id: m-6d5e88f4d89d4f978b6a22d765f1f621
+model_size_bytes: 28025
+model_uuid: m-6d5e88f4d89d4f978b6a22d765f1f621
+prompts: null
+run_id: 33e61431e3ab4b15b08979b0b06462c9
+utc_time_created: '2026-09-30 15:47:07.651171'
