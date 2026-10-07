@@ -1,7 +1,7 @@
 mlflow==3.16.1
 pandas==2.3.3
-scikit-learn==1.9.1
-numpy==2.5.3
-scipy==1.18.1
-cloudpickle==3.1.2
-SQLAlchemy==2.0.45
+scikit-learn
+numpy
+scipy
+cloudpickle
+SQLAlchemy
